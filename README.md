@@ -27,5 +27,5 @@ I think the `server.js` file may not work for multiple projects, I tried make th
 ## Credits
 Me, the one and only
 
-## Licence
-none
+## License
+[MIT](license)
